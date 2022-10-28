@@ -14,4 +14,3 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Clean Architecture In Action"
 include ':app'
-include ':core'
